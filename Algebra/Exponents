@@ -23,3 +23,13 @@ E.G 5^7*5^7 = 5^7+(-7) = 5^0 = 1 = 5^7*5^-7/5^7 = 1/5^7
 
 6. Fractional:
 X^1/n = n root X
+E.G 64^1/3 = 3 root 64  = 4
+E.g (2) 9^1/2 = 2 root 9
+
+7. Distribute an Exponent over a Product
+(X*Y)^n = X^n*Y^n
+E.G (5*7)^3 = 5^3*7^3
+
+8. Distribute an Exponent over a Quotient
+(X/Y)^n = X^n/Y^n
+E.G (2/7)^5 = 2^5/7^5 = (2/7)(2/7)(2/7)(2/7)(2/7)= 22222/77777
