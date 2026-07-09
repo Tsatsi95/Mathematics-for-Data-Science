@@ -1,0 +1,25 @@
+1. The Product Rule:
+X^m.X^n = X^m+n
+E.g 2^3*2^4 = 2^7 = 222*2222
+Multiply two expressions with same base--->add the exponents
+
+2. The Quotient Rule:
+X^n/X^m = X^n-m
+E.G 3^6/3^2 = 3^6-2 = 3^4 / 333*333/33
+Divide two expressions with same base--->subtract the exponents
+
+3. The Power Rule:
+(X^n)^m = X^n*m 
+E.G (5^4)^3 = 5^4*3 = 5^12
+OR 5^4*5^4*5^4 = (5555)*(5555)*(5555)
+
+4. Power of zero
+X^0=1
+E.G 1=2^3/2^3 = 2^3-3 = 2^0 therefore 2^0 = 1
+
+5. Negative Exponents:
+X^-n = 1/X^n
+E.G 5^7*5^7 = 5^7+(-7) = 5^0 = 1 = 5^7*5^-7/5^7 = 1/5^7
+
+6. Fractional:
+X^1/n = n root X
